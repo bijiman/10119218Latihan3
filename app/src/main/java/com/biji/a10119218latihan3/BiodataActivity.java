@@ -15,7 +15,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /*
-24 April 2022
+25 April 2022
 Latihan 3
 10119218
 Joyson Sitorus
