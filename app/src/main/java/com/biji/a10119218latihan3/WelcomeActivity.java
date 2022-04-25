@@ -8,7 +8,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-
+/*
+24 April 2022
+Latihan 3
+10119218
+Joyson Sitorus
+IF6
+ */
 
 public class WelcomeActivity extends AppCompatActivity {
 
