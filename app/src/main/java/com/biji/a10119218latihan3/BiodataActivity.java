@@ -40,7 +40,7 @@ public class BiodataActivity extends AppCompatActivity {
     private String nameBiodata;
 
     //Id unik untuk putekstra (melempar nilai ke activity lain)
-    public static final String ID_EXTRA_MSG = "com.apps.rizkiadam.latihan1.MSG";
+    public static final String ID_EXTRA_MSG = "com.biji.a10119218latihan3.MSG";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
